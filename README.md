@@ -1,2 +1,2 @@
 # bug-free-train
-red fruitbad dojo
+alan entered the room
