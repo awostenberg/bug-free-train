@@ -25,6 +25,21 @@ Tuesday. Day 7.
 
     Michael
 
+### white hat
+    pytest working on both machines
+    ran a few tests up to 4
+    use mob git handover for collaboration
+    each got to use own IDE
+    python "match" requires 3.11
+    2 hours, 2 participants
+    used some rudimentary markdown for README.md
+    used vertically split screen (Michael)
+
+### yellow
+    all white hat stuff was great
+    esp. mob.sh handover 7 -10min increments: flow
+
+
 Mon. Day 6. Blink retro.
 
 # white hat
