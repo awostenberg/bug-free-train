@@ -162,3 +162,5 @@ cython_debug/
 # ignore local virtualenv
 # made with python3 -m venv virtualenv
 virtualenv/
+
+.vimrc

@@ -11,6 +11,31 @@
     pip install pytest-watch
     ptw             # enjoy continuous test
 
+## day 8
+
+### white hat
+    Michael had 3.11 python going
+    Alan tried desktop gather town - sound as good or better
+    factor to googol
+	learned // integer division
+	python float precision probably 80 bits
+	integers apparently infinite
+    used recursive algorithm
+    c# convention of "try_" for predicate function seemed better
+    still wondering why mob.sh timer doesn't use default
+
+### yellow hat
+
+    Alan: good quality sound
+    faster start, because tools just worked (not new, not failing)
+    Michael fact that Alan is satisfied with factor
+    M: Python's integer division operator is pretty cute
+    A: liked that M solved it
+    
+### green hat. 
+    we got value of prime factors; move onto something new tomorrow  (roman numerals)
+
+
 ## day 7
 Tuesday. Day 7.
     Tuesday. .. mike could not her alan, nor see, maybe it was alan vpn; refresh GT and it seems to be working...
