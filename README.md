@@ -11,6 +11,11 @@
     pip install pytest-watch
     ptw             # enjoy continuous test
 
+## day 9
+
+    Jeremy wuz here - again
+    Alan entered the room, finally
+
 ## day 8
 
 ### white hat
