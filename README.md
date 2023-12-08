@@ -16,15 +16,31 @@
     Jeremy wuz here - again
     Alan entered the room, finally
 
+### white hat
+    got Jeremy going on python and mob timer 
+    small refactor of test_primes to use functional style map()
+        vs repeat
+    ran pylint and fixed some warnings and cosmetic defects
+    returned to zoom from gather town
+    could end up with confusion with the timer tool when there are three people (role rotations)
+    forget to share screen in zoom
+
+### yellow hat
+    good to see Jeremy again after the trip
+    glad we got through the logistics of getting Jeremy setup
+
+### green hat
+    tomorrow: Roman numerals
+
 ## day 8
 
 ### white hat
     Michael had 3.11 python going
     Alan tried desktop gather town - sound as good or better
     factor to googol
-	learned // integer division
-	python float precision probably 80 bits
-	integers apparently infinite
+    learned // integer division
+    python float precision probably 80 bits
+    integers apparently infinite
     used recursive algorithm
     c# convention of "try_" for predicate function seemed better
     still wondering why mob.sh timer doesn't use default
@@ -77,8 +93,8 @@ Mon. Day 6. Blink retro.
    went to telephone sound -- gt unrelable A
 
 # yellow hat
-	push mob timer at end! 
-	new tool -- no more VS code liveshare  dependency.
+    push mob timer at end! 
+    new tool -- no more VS code liveshare  dependency.
 
 # green
-	tomorrow. primes
+    tomorrow. primes
