@@ -11,6 +11,39 @@
     pip install pytest-watch
     ptw             # enjoy continuous test
 
+## day 10
+
+### white hat
+    2 participants. M and A. first half hour at least getting zoom set... audible problems a hang..
+    wonder: why rest API not web sockets? REST is fundamentally client-server; this is a poor fit with DM, which is push.
+
+    Something different:
+        try open python nostr client to DM our phones
+        through open source and web hooks
+
+        https://nostr.com/
+
+        First salvo. tried pip install nostr-sdk
+            ERROR: Could not find a version that satisfies the requirement nostr-sdk (from versions: none)
+            ERROR: No matching distribution found for nostr-sdk
+
+        Secnod salvo. try pip install nostr
+            dno't see dm example
+
+        Third salvo. try  pip install nostrpy  of https://pypi.org/project/nostrpy/
+
+        independent study last 30 minutes, goal: "dm other's phone from phython"
+        success.  See dm-experiment-a.md and nostrcnofig.hcl 
+
+        granted, this was python cli (wanted to do python repl)...
+
+### yellow hat
+    vibrated A phone over encrypted dm from python; sent to M phone (no vibrate but it worked)
+
+### green hat
+    q how with mob programming the two of us, how decide who's naviagor, who's driver, when three.
+    a  
+    
 ## day 9
 
     Jeremy wuz here - again
