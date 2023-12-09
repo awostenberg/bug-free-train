@@ -15,8 +15,9 @@
 
 ### white hat
     2 participants. M and A. first half hour at least getting zoom set... audible problems a hang..
-    wonder: why rest API not web sockets? REST is fundamentally client-server; this is a poor fit with DM, which is push.
-
+    wonder: why stipulate rest API not web sockets? 
+            REST is fundamentally client-server, but this is a poor fit with DM, which is push.
+            
     Something different:
         try open python nostr client to DM our phones
         through open source and web hooks
@@ -41,9 +42,14 @@
     vibrated A phone over encrypted dm from python; sent to M phone (no vibrate but it worked)
 
 ### green hat
-    q how with mob programming the two of us, how decide who's naviagor, who's driver, when three.
-    a  
+    q how with mob programming the two of us, how decide who's navigator, who's driver, when three.
+    a begin of day, random order, (flip coins), then fixed rotaiion driver-navigator-mobber for the day
     
+    q monday? short day for M - dentist; 30m then go.
+    a demo day of whatever you want! 15m each. 
+        a: plans to do encryped DM as today but from python repl not cli
+        m: tbd or just chill
+
 ## day 9
 
     Jeremy wuz here - again
