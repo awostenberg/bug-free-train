@@ -3,7 +3,7 @@
 
 ## TDD in states and moves
 
-![tdd in states and moves]()
+![tdd in states and moves](http://tinyurl.com/bdhk8apt)
 
 # setup
 
