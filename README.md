@@ -5,7 +5,7 @@
 
 ![tdd in states and moves](http://tinyurl.com/bdhk8apt)
 
-# setup
+## setup
 
     python -m venv virtualenv
     source virtualenv/bin/activate
@@ -15,6 +15,13 @@
 
     pip install pytest-watch
     ptw             # enjoy continuous test
+## kit
+- game ruleset and kit at https://willemlarsen.github.io/mobprogrammingrpg/
+- mob timer
+	- (basic - first dojo) when hosted by game master http://mobster.cc/ (use “learn to mob” button to see scoring)
+	- (advanced) when git handover https://mob.sh/
+
+
 
 ## day 10
 
