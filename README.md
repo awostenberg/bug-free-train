@@ -21,6 +21,17 @@
 	- (basic - first dojo) when hosted by game master http://mobster.cc/ (use “learn to mob” button to see scoring)
 	- (advanced) when git handover https://mob.sh/
 
+## day 15
+
+### white hat
+    participants. 2 m,a.
+    today: adrs on variety topics, beginning with "why not whatsapp"
+    tried WhatsApp & took notes in docs/adr
+    not dojo; pair writing session whose work product was our first ADR
+
+### yellow hat
+    enjoyed bringing new things to attention
+    it was a work session, not practice session
 
 
 ## day 10
