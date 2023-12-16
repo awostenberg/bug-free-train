@@ -2,7 +2,7 @@
 
 MJM: Ok, W, given you're wanting social media for the smallest social unit, the family, and granted, group text has it's limitations, why not whatsapp?
 
-W: I heard it was owned by the chineese, and it is centralized and permissioned (I need a username/password), rather than text, which is permissionless. For example, my daughter Sarah stood up a "secret doggie chat" the other day, invited other members of family who like dogs and seeing daily dog pics. She did not need to ask permission.
+W: I heard it was owned by the chinese, and it is centralized and permissioned (I need a username/password), rather than text, which is permissionless. For example, my daughter Sarah stood up a "secret doggie chat" the other day, invited other members of family who like dogs and seeing daily dog pics. She did not need to ask permission.
 
 M: On the contrary, whats app you just need your phone, works like a text. you just go and install the app.
 
@@ -61,7 +61,7 @@ W: merits consideration. Let's run a little experiment.
 
 
 ## green hat
-- could it be used for Secret Baby Chat, planning Mom's 80+th bday dinner,
+- could it be used for Secret Baby Chat, planning Mom's 85th bday dinner,
 	Monday morning men's coffee?
 	"named group chats" generally; 
 		this cannot be done with text chat, unless /everybody/ is on iPhone
