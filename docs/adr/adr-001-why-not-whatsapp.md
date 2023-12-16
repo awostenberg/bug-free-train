@@ -1,13 +1,14 @@
-why not whatsapp?
+# why not whatsapp?
 
-MJM: Ok, W, given you're wanting social media for the smallest social unit, the family, and granted, text has it's limitations, why not whatsapp?
+MJM: Ok, W, given you're wanting social media for the smallest social unit, the family, and granted, group text has it's limitations, why not whatsapp?
 
-W: I heard it was owned by the chineese, and it is centralized and permissioned (I need a username/password), rather than text, which is permissionless. My daughter Sara stood up a "secret doggie chat" the other day, invited other members of family who like dogs and seeing daily dog pics. She did not need to ask permission.
+W: I heard it was owned by the chineese, and it is centralized and permissioned (I need a username/password), rather than text, which is permissionless. For example, my daughter Sarah stood up a "secret doggie chat" the other day, invited other members of family who like dogs and seeing daily dog pics. She did not need to ask permission.
 
 M: On the contrary, whats app you just need your phone, works like a text. you just go and install the app.
 
 
 W: ok, but whatabout chinese ownership? 
+
 M: It's owned by meta.
 
 W: I'm curious on the onboarding; you could what's app me now?
@@ -15,21 +16,26 @@ W: I'm curious on the onboarding; you could what's app me now?
 M: sure, I'll send an invitation
 
 W: "access you contacts"? I don't think so.
+
 M: don't blame you, but it is interesting
-W: no e-mail for now.
-W: I'm in. That was easy, except for asking for phone number.
+
+W: no e-mail for now. I'm in. That was easy, except for asking for phone number.
+
 W: I understand why, though, if they're going to text me.
+
 W: Adding M to contacts in order to message.  Sending message
+
 M: it came through Whatsapp
+
 W: not as texts?
+
 M: no, separate in Whatsapp
-M: In the past... maybe if I added my google account, it automatically
-	Included a whatsapp option under contact along with text and phone
-M: (I just reinstalled it on a new phone.)
+
+M: In the past... maybe if I added my google account, it automaticall 
+Included a whatsapp option under contact along with text and phone.
+(I just reinstalled it on a new phone.)
 
 W: merits consideration. Let's run a little experiment.
-
-
 
 ## yellow hat
 
