@@ -21,6 +21,21 @@
 	- (basic - first dojo) when hosted by game master http://mobster.cc/ (use “learn to mob” button to see scoring)
 	- (advanced) when git handover https://mob.sh/
 
+## day 16
+## white
+    3 participants M,A,G. 
+        1st hour of practice ; mob programming with scoring
+
+        2nd hour convo and notes; "what is your passion"
+        got speaking ("Say") working on M's rig, 
+            so "mob start 5" works better.
+
+## yellow 
+    good to have 3 people here;
+    liked having a skilld pythong person, for quck q & a
+        "lifts all boats", e.g. "a learned of : in python"
+
+
 ## day 15
 
 ### white hat
