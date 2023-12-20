@@ -166,3 +166,7 @@ virtualenv/
 .vimrc
 .*.sw?
 .nfs*
+
+# f#
+obj/
+bin/
