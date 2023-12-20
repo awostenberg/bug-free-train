@@ -21,6 +21,18 @@
 	- (basic - first dojo) when hosted by game master http://mobster.cc/ (use “learn to mob” button to see scoring)
 	- (advanced) when git handover https://mob.sh/
 
+## day 17
+    nominatinos for today? do roman numerals in py     b) roman in F#? ('nother time)
+
+## white
+    2 participants; f# kata; fizzbuzz 
+    used liveshare w/ mob timer
+    M first time F#
+    never got fluent assert going
+
+## yellow
+    pattern match on a tuple
+
 ## day 16
 ## white
     3 participants M,A,G. 
