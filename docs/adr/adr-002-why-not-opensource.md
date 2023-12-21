@@ -28,5 +28,5 @@ Trust but verify!
 
 Question 2. what's a social coder?
 
-Reply 2. Just like a social drinker, but with code. Unlike social media, which is asynchronous text, we social coders collaborate in realitme, over code.
+Reply 2. Just like a social drinker, but with code. Unlike social media, which is asynchronous text, we social coders collaborate in realitme, over code. Joy.
 

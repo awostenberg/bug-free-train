@@ -21,20 +21,35 @@
 	- (basic - first dojo) when hosted by game master http://mobster.cc/ (use “learn to mob” button to see scoring)
 	- (advanced) when git handover https://mob.sh/
 
+## day 18
+    2 participants
+    first hour. working session. adr-002 why not opensource?
+    second hour. practice session. roman number kata.
+    learned something about the tooling:
+        - "i"*5 idiomatic python way 
+        - in a  multiline comment ("ticks") a line ending in ":"
+            does an auto-indent (just like code) (in vim)
+        - replace
+
+### yellow
+    star operator
+    paused to give buddy time to think (in adr-002)
+
+
 ## day 17
     nominatinos for today? do roman numerals in py     b) roman in F#? ('nother time)
 
-## white
+### white
     2 participants; f# kata; fizzbuzz 
     used liveshare w/ mob timer
     M first time F#
     never got fluent assert going
 
-## yellow
+### yellow
     pattern match on a tuple
 
 ## day 16
-## white
+### white
     3 participants M,A,G. 
         1st hour of practice ; mob programming with scoring
 
@@ -42,7 +57,7 @@
         got speaking ("Say") working on M's rig, 
             so "mob start 5" works better.
 
-## yellow 
+### yellow 
     good to have 3 people here;
     liked having a skilld pythong person, for quck q & a
         "lifts all boats", e.g. "a learned of : in python"
