@@ -10,7 +10,7 @@ So why not open source the MVP this Christmas season?
 ----
 Question 1. is opensource relevant to mental health as such?
 
-Reply 1. Probably nnot for private 1:1, privacy. 
+Reply 1. Probably not for private 1:1, privacy. 
 But if somebody is rating 10,000 posts with regards to mental
 health as a training set that will then curate my feed, why not
 share it? Sunshine. Science!
