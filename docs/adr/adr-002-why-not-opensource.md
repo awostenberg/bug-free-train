@@ -14,7 +14,7 @@ Objection 2. Code asbuilt is not measurably better than what's already available
 ----
 Question 1. is opensource relevant to mental health as such?
 
-Reply 1. Probably not for private 1:1, privacy. 
+Reply 1. Probably not for private 1:1.
 But if somebody is rating 10,000 posts with regards to mental
 health as a training set that will then curate my feed, why not
 share it? Sunshine. Science!
