@@ -168,5 +168,5 @@ virtualenv/
 .nfs*
 
 # f#
-obj/
-bin/
+**/obj/
+**/bin/
