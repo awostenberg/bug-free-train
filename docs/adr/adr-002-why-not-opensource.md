@@ -7,6 +7,10 @@ bowl.
 
 So why not open source the MVP this Christmas season?
 
+Objection 1. Chief has no bandwidth.
+
+Objection 2. Code asbuilt is not measurably better than what's already available in opensource for social media.
+
 ----
 Question 1. is opensource relevant to mental health as such?
 
