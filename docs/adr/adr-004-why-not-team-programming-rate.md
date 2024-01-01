@@ -12,7 +12,7 @@ We social coders side with musicians and athletes  in humbly challenging the eng
 
 Given  the whole is greater than the sum of its parts, if we program as a true team, why not quote a team programming rate?
 
-Furthermore, an hourly rate focuses on effort expended not value delivered. On scrum the unit of value is the completed asprint — not the hour expended. Why not price it per sprint?
+Furthermore, an hourly rate focuses on effort expended not value delivered. On scrum the unit of value is the completed sprint — not the hour expended. Why not price it per sprint?
 
 ## II. First sprint experiment 
 
