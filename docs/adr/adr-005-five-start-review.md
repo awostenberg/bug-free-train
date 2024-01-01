@@ -1,4 +1,4 @@
-Given I have chosen asynchronous collaboration (I make a work product and later seek feedback from other people) it can be tempting to have unstructured review, e.g. “any comments”
+Given I have chosen asynchronous collaboration (I make a work product and later seek feedback from other people) it can be tempting to have an unstructured review, e.g. “any comments”
 
 And this can work when the reviewers number one or two, and are well prepared. 
 
@@ -7,7 +7,7 @@ But when they are many, or unprepared (for example, have not read the item to re
 Five star review is one such option.
 
 
-## five star review ageenda
+## five star review agenda
 Objective: five star review of _
 
 Agenda: 15 minutes of silent reading and private note taking(*)
