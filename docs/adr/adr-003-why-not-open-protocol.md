@@ -15,3 +15,12 @@ while freeing us for the discipined persuit of less: that which truly differenti
 So why not build on an existing open social media protocol? Why not [nostr](https://nostr.com/)?
 
 
+
+## objection 1: nostr private key management
+- UX/UI issues - no hurdle for cypherpunks (e.g. pgp; bitcoin)
+        but for layity? Supporting this for hundreds of thousands of lay  'dudes'
+        and 'gal's is likely to be one of the hardest things we would have to solve; look at iMessage for an option;
+## objection 2: time delays on nostr? 
+- quantify "too long" (e.g. 100ms?)  
+  - a) will always come (guaranteed delivery)
+  - b) within 4-5s at 99.0% confidence
