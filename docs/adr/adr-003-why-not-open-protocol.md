@@ -26,5 +26,5 @@ So why not build on an existing open social media protocol? Why not [nostr](http
   - b) within 4-5s at 99.0% confidence
 
 ## objection 3: pace of innovation
-- faster to innovate on proprietary protocols 
-than on open protocol
+- faster to innovate on proprietary protocol 
+than on opel
