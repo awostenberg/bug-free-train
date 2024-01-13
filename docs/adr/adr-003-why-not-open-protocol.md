@@ -24,3 +24,7 @@ So why not build on an existing open social media protocol? Why not [nostr](http
 - quantify "too long" (e.g. 100ms?)  
   - a) will always come (guaranteed delivery)
   - b) within 4-5s at 99.0% confidence
+
+## objection 3: pace of innovation
+- faster to innovate on proprietary protocols 
+than on open protocol
