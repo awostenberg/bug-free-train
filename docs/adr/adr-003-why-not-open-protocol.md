@@ -32,6 +32,6 @@ than on open
   - b) within 4-5s at 99% confidence
 
 
-*objection 4:* message retention on on relay might be short
+*objection 4:* message retention on relay might be too short
 
 
