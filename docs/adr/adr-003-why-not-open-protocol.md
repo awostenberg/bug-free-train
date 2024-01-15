@@ -26,12 +26,12 @@ So why not build on an existing open social media protocol? Why not [nostr](http
 - faster to innovate on proprietary protocol 
 than on open
 
-*objection 3:* dm time delays?
-- quantify "too long" (e.g. 100ms?)  
+*objection 3:* dm time delays might be too long
+- quantify "too long"  
   - a) will always come (guaranteed delivery)
-  - b) within 4-5s at 99.0% confidence
+  - b) within 4-5s at 99% confidence
 
 
-*objection 4:* message retention on relay?
+*objection 4:* message retention on on relay might be short
 
 
