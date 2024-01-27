@@ -1,4 +1,15 @@
-Given I have chosen asynchronous collaboration (I make a work product and later seek feedback from other people) it can be tempting to have an unstructured review, e.g. “any comments”
+
+Collaboration options from most to least sociable:
+
+|work together|review together|example|
+|---|---|---|
+|realtime | realtime |pair/mob during social coding hour|
+|asynchronous|realtime|soloist PR with review at social coding hour|
+|asynchronous|asynchronous|soloist PR and soloist review|
+
+
+
+Given I have chosen asynchronous collaboration (I make a work product and later seek feedback from other people) and a live review (as opposed to asynchronous review), it can be tempting to have an unstructured review, e.g. “any comments”
 
 And this can work when the reviewers number one or two, and are well prepared. 
 
@@ -59,6 +70,8 @@ For each Q in Questions
    For each P in Persons
       Ask P the Q; transcribe whatever he said, without judging. 
 ```
+
+
 
 
 
