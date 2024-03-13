@@ -202,3 +202,6 @@ Mon. Day 6. Blink retro.
 
 # green
     tomorrow. primes
+Nathan was here
+Alan was here
+Michael was here
