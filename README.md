@@ -232,3 +232,22 @@ Alan entered the room
 Brian was here again
 Alan final, over to you, brian, take her hom
 
+3-21-24 Retro
+
+# white hat
+
+Brian got on-boarded
+3 participants successfully mob coded
+Got fizzbuzz and tidy up code
+We opened with a pater noster
+
+# yellow hat
+
+Working with a new guy
+Didn't have to deal with a Windows Machine!!!
+Gather Town worked good with 3 screens
+Refresher on python
+
+# green hat
+
+Get Brian's env set up with python virtual env
