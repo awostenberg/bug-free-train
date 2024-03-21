@@ -207,38 +207,38 @@ Tuesday. .. mike could not her alan, nor see, maybe it was alan vpn; refresh GT 
     all white hat stuff was great
     esp. mob.sh handover 7 -10min increments: flow
 
-Mon. Day 6. Blink retro.
+## Mon. Day 6. Blink retro.
 
-# white hat
+### white hat
 
 got M and A working on git handover
 went to telephone sound -- gt unrelable A
 
-# yellow hat
+### yellow hat
 
     push mob timer at end!
     new tool -- no more VS code liveshare  dependency.
 
-# green
+### green
 
     tomorrow. primes
 
-### 3-21-24 
+## 3-21-24 
 
-## white hat
+### white hat
 
 Brian got on-boarded
 3 participants successfully mob coded
 Got fizzbuzz and tidy up code
 We opened with a pater noster
 
-## yellow hat
+### yellow hat
 
 Working with a new guy
 Didn't have to deal with a Windows Machine!!!
 Gather Town worked good with 3 screens
 Refresher on python
 
-# green hat
+## green hat
 
 Get Brian's env set up with python virtual env
