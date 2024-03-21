@@ -223,25 +223,16 @@ went to telephone sound -- gt unrelable A
 
     tomorrow. primes
 
-Nathan was here
-Alan was here
+### 3-21-24 
 
-Brian was here
-Michael was here again
-Alan entered the room
-Brian was here again
-Alan final, over to you, brian, take her hom
-
-3-21-24 Retro
-
-# white hat
+## white hat
 
 Brian got on-boarded
 3 participants successfully mob coded
 Got fizzbuzz and tidy up code
 We opened with a pater noster
 
-# yellow hat
+## yellow hat
 
 Working with a new guy
 Didn't have to deal with a Windows Machine!!!
