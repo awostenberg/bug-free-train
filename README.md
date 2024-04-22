@@ -242,3 +242,19 @@ Refresher on python
 ## green hat
 
 Get Brian's env set up with python virtual env
+
+## 22-Apr-2024
+
+### white hat
+
+- 2 participants
+- chatted about many things
+  - work for equity v pro-bono v federal reserve notes v satoshis
+  - deep dive [possible miner project](https://bitcoinerjobs.com/job/1474432-back-end-engineer-rigly) 
+  - wallet without violating [8th commandment](https://www.ewtn.com/catholicism/library/ten-commandments-10336)
+
+### yellow hat
+  - got together for kafe klatch 
+
+### green hat
+  - git hub wiki database
