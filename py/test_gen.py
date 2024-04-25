@@ -1,9 +1,8 @@
 ''' explore generators
-        tdd in states and moves https://tinyurl.com/yc5u25wn
 
-    generate a sequence of integers ⌛️
+    generate a sequence of integers  ✅     
 
-    generate a sequence of random integers
+    generate a sequence of random integers (deal)
     
     generate a sequence of cards from a deck (apl deal operator)
     
@@ -21,32 +20,28 @@
     sequence of integers
         take 1              1           ✅           
         take 2              1,2          ✅      
-        take 5              1,2,3,4,5
+        take 5              1,2,3,4,5  ✅  
         take 1; take 2      1    2,3      ✅   
 
-    TDD. Red. Green. Refactor.
+    TDD. Red. Green. Refactor. In states and moves https://tinyurl.com/yc5u25wn  
     DoD: all tests pass? reveals intentino? no duplication? fewest elements?
 '''
 def take(applesauce,count=1): 
-    n = [next(applesauce)]
-    if count>1:
-        n.append(next(applesauce))
-    return n
+    result = [next(applesauce)]
+    if count > 1:
+        rest = take(applesauce,count-1)
+        result = result + rest
+    return result
 
 def get_natural_numbers_generator():
-    n=1
+    n = 1
     while True:
         yield n
-        n+=1
-    # yield n
-    # n+=1
-    # yield n
-    # n+=1
-    # yield n
+        n += 1
 
 def test_take1_should_1():
     nats = get_natural_numbers_generator()
-    result = take(nats,1)
+    result = take(nats)
     assert result == [1]
 
 def test_take2_should_1_2():
@@ -59,4 +54,8 @@ def test_take1_2_should_1_2_3():
     _ = take(nats,1)
     result = take(nats,2)
     assert result == [2,3]
+
+def test_take5_should_1_2_3_4_5():
+    result = take(get_natural_numbers_generator(),5)
+    assert result == [1,2,3,4,5] 
 
