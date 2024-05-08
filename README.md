@@ -228,7 +228,7 @@ went to telephone sound -- gt unrelable A
 ### white hat
 
 Brian got on-boarded
-3 participants successfully mob coded
+e3 participants successfully mob coded
 Got fizzbuzz and tidy up code
 We opened with a pater noster
 

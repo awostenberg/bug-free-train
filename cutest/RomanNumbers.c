@@ -30,13 +30,6 @@ diary.
 
 */
 
-/* Part II: other way around roman to arabic 
-        I       1
-        II      2
-
-        (see above)
-*/
-
 
 
 char* sticks(int n) {
@@ -54,15 +47,6 @@ char* sticks(int n) {
 
 }
 
-int romanToArabic(const char* roman) {
-    return 1;
-
-}
-
-void TestArabic1_I(CuTest* tc) {
-    int result = romanToArabic("I");
-    CuAssertIntEquals(tc, 1, result);   
-}
 
 char* replace_n_of_this_with_that(char* input, int howMany, char toReplace, char replaceWith) {
     char* output = malloc(strlen(input))+1;     //leaks but does not mutate input; tradeoffs
@@ -166,7 +150,6 @@ CuSuite* RomanNumbersGetSuite() {
     SUITE_ADD_TEST(suite, TestRoman5_V);
     SUITE_ADD_TEST(suite, TestRoman10_X);
 
-    SUITE_ADD_TEST(suite, TestArabic1_I);
     SUITE_ADD_TEST(suite, TestRomanMillion_mbar);
 
     return suite;

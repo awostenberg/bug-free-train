@@ -4,6 +4,7 @@
 CuSuite* StrUtilGetSuite();
 CuSuite* FizzbuzzGetSuite();
 CuSuite* RomanNumbersGetSuite();
+CuSuite* ArabicNumbersGetSuite();
 
 void RunAllTests(void) {
     CuString *output = CuStringNew();
@@ -14,6 +15,7 @@ void RunAllTests(void) {
     CuSuiteAddSuite(suite, FizzbuzzGetSuite());
 
     CuSuiteAddSuite(suite, RomanNumbersGetSuite());
+    CuSuiteAddSuite(suite, ArabicNumbersGetSuite());
 
   
     CuSuiteRun(suite);
@@ -28,8 +30,8 @@ int main(void) {
 }
 
 /* 
-    g++ -Icutest-1.5/ AllTests.c cutest-1.5/CuTest.c StrUtil.c Fizzbuzz.c RomanNumbers.c
-    gcc  -Icutest-1.5/ AllTests.c cutest-1.5/CuTest.c StrUtil.c Fizzbuzz.c RomanNumbers.c
+    g++ -Icutest-1.5/ AllTests.c cutest-1.5/CuTest.c StrUtil.c Fizzbuzz.c RomanNumbers.c ArabicNumbers.c
+    gcc  -Icutest-1.5/ AllTests.c cutest-1.5/CuTest.c StrUtil.c Fizzbuzz.c RomanNumbers.c ArabicNumbers.c
 
     ./a.out         # run tests
 */
