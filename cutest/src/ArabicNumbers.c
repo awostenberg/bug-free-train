@@ -40,6 +40,18 @@ int romanToArabic(const char* roman) {
         case 'X':
             n = 10;
             break;
+        case 'L':
+            n = 50;
+            break;
+        case 'C':
+            n = 100;
+            break;
+        case 'D':
+            n = 500;
+            break;
+        case 'M':
+            n = 1000;
+            break;
     }
 
     rest = romanToArabic(++roman);
@@ -79,6 +91,26 @@ void TestArabic26_XXVI(CuTest* tc) {
     CuAssertIntEquals(tc, 26, result);
 }
 
+void TestArabic50_L(CuTest* tc) {
+    int result = romanToArabic("L");
+    CuAssertIntEquals(tc, 50, result);
+}
+
+void TestArabic100_C(CuTest* tc) {
+    int result = romanToArabic("C");
+    CuAssertIntEquals(tc, 100, result);
+}
+
+void TestArabic500_D(CuTest* tc) {
+    int result = romanToArabic("D");
+    CuAssertIntEquals(tc, 500, result);
+}
+
+void TestArabic1000_M(CuTest* tc) {
+    int result = romanToArabic("M");
+    CuAssertIntEquals(tc, 1000, result);
+}
+
 CuSuite* ArabicNumbersGetSuite() {
     CuSuite* suite = CuSuiteNew();
 
@@ -90,6 +122,11 @@ CuSuite* ArabicNumbersGetSuite() {
     SUITE_ADD_TEST(suite, TestArabic10_X);
 
     SUITE_ADD_TEST(suite, TestArabic26_XXVI);
+
+    SUITE_ADD_TEST(suite, TestArabic50_L);
+    SUITE_ADD_TEST(suite, TestArabic100_C);
+    SUITE_ADD_TEST(suite, TestArabic500_D);
+    SUITE_ADD_TEST(suite, TestArabic1000_M);
 
     return suite;
 }
