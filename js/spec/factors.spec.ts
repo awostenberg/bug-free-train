@@ -20,7 +20,7 @@ describe('prime factors', () => {
         return false
     }
 
-    const factors = (n:number) => {
+    const factors = (n) => {    //can't do n:number; why?
         const firstFactor = findFirstFactor(n)
         if (!firstFactor)
             return [n]
