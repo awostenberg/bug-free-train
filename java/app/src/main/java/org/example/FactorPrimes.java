@@ -4,31 +4,24 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class FactorPrimes {
     private int smallestDivisor(int n) {
+        for (int i = 2; i <= Math.sqrt(n); i++) {
+            if (n % i == 0) return i;
+        }
 
-        if (n%2 == 0)
-            return 2;
-        if (n%3 == 0)
-            return 3;
-        return 42;
+        return n;  // is prime
     }
 
-    private boolean isPrime(int n) {return n<4;}
     public ArrayList<Integer> FactorsOf(int n) {
-        // if prime just return the list with that one number
-        // if not prime find the smallest number S that divides into n,
-        //      and ... divide by S & call self recursively on reminder & append /that/ list to S
-        if (isPrime(n))
+        var s = smallestDivisor(n);
+        if (s == n)   // is prime
             return new ArrayList<Integer>(List.of(n));
 
-        var s = smallestDivisor(n);
-        var rest = FactorsOf(n / s);
-        // append rest to s
-        // or prepend s to rest
-        rest.add(0,s);    //prepend
+        var remaining_factors = FactorsOf(n / s);
+        remaining_factors.add(0,s);    //prepend
 
-        return rest;
-
+        return remaining_factors;
     }
 }

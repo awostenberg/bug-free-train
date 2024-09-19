@@ -2,9 +2,8 @@
 
 ### first time
 - python -m venv .venv
-- source .venv/bin/activate
-- pip install pytest
-- pip install pytest-watcher
+- source .venv/bin/activate   #to get pip
+- pip install -r requirements.txt
 
 ### thereafter
 - source .venv/bin/activate

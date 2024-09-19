@@ -22,11 +22,21 @@ def replace_5sticks_with_v(s):
 def replace_2vs_with_x(s):
     return s.replace("v" * 2, "x")
 
-def roman(n):
-    sticks = "i" * n
-    vs = replace_5sticks_with_v(sticks)
-    return replace_2vs_with_x(vs)
+def replace_4i_with_iv(s):
+    return s.replace("iiii", "iv")
 
+def replace_viv_with_ix(s):
+    return s.replace("viv","ix")
+
+
+def roman(n):
+    final = "i" * n # sticks
+    final = replace_5sticks_with_v(final)
+    final = replace_2vs_with_x(final)
+    final = replace_4i_with_iv(final)
+    final = replace_viv_with_ix(final)
+
+    return final
 
 def test_1_should_i():
     assert(roman(1) == "i")
@@ -46,4 +56,24 @@ def test_10_should_x():
 def test_4_should_iv():
     assert(roman(4) == "iv")
 
+def test_9_should_ix():
+    assert(roman(9) == "ix")
+
+def test_11_should_xi():
+    assert(roman(11) == "xi")
+
+def test_14_should_xiv():
+    assert(roman(14) == "xiv")
+
+def test_15_should_xv():
+    assert(roman(15) == "xv")
+
+def test_19_should_xix():
+    assert(roman(19) == "xix")
+
+def test_30_should_xxx():
+    assert(roman(30) == "xxx")
+
+def test_50_should_l():
+    assert(roman(50) == "l")
 
